@@ -4925,7 +4925,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1545048608}
   mHiddenRoot: {fileID: 0}
-  mTargetName: marker4
+  mTargetName: Marker1
   mDatasetName: Vuforia/projekt.xml
   mCastedBehaviour: {fileID: 1545048608}
   mMeshFilter: {fileID: 0}
@@ -5013,7 +5013,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: marker4
+  mTrackableName: Marker1
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/projekt.xml
   mAspectRatio: 1
@@ -5034,7 +5034,7 @@ Transform:
   m_GameObject: {fileID: 1545048605}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.497, y: 0, z: 0.2096}
+  m_LocalPosition: {x: -0.7616, y: 0, z: -0.0006}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6601,7 +6601,7 @@ Transform:
   m_GameObject: {fileID: 1946746706}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.497, y: 0, z: 0}
+  m_LocalPosition: {x: -0.7516, y: 0, z: 0.3758}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
