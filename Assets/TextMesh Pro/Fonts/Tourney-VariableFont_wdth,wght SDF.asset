@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Tourney-VariableFont_wdth,wght SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: -1221309097
   material: {fileID: 7307740024464464467}
-  materialHashCode: 0
+  materialHashCode: -1259088617
   m_Version: 1.1.0
   m_SourceFontFileGUID: e4c2bc43bafcc694ea43c6efa7e853bc
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: e4c2bc43bafcc694ea43c6efa7e853bc, type: 3}
@@ -4687,9 +4687,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
