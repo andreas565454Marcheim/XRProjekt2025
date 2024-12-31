@@ -6042,7 +6042,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 656766387}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Marker1
+  mTargetName: marker3
   mDatasetName: Vuforia/projekt.xml
   mCastedBehaviour: {fileID: 656766387}
   mMeshFilter: {fileID: 0}
@@ -6130,13 +6130,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Marker1
+  mTrackableName: marker3
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/projekt.xml
-  mAspectRatio: 1
+  mAspectRatio: 0.705
   mImageTargetType: 0
   mWidth: 0.148
-  mHeight: 0.148
+  mHeight: 0.10434
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -13287,7 +13287,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1413885437}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Marker1
+  mTargetName: marker2
   mDatasetName: Vuforia/projekt.xml
   mCastedBehaviour: {fileID: 1413885437}
   mMeshFilter: {fileID: 0}
@@ -13375,7 +13375,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Marker1
+  mTrackableName: marker2
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/projekt.xml
   mAspectRatio: 1
@@ -16198,7 +16198,7 @@ GameObject:
   - component: {fileID: 1738309134}
   - component: {fileID: 1738309133}
   m_Layer: 5
-  m_Name: PanelTextMath
+  m_Name: PanelTextOther
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16968,13 +16968,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: marker2
+  mTrackableName: marker8
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/projekt.xml
-  mAspectRatio: 1
+  mAspectRatio: 0.705
   mImageTargetType: 0
   mWidth: 0.148
-  mHeight: 0.148
+  mHeight: 0.10434
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -17010,7 +17010,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1791149988}
   mHiddenRoot: {fileID: 0}
-  mTargetName: marker2
+  mTargetName: marker8
   mDatasetName: Vuforia/projekt.xml
   mCastedBehaviour: {fileID: 1791149988}
   mMeshFilter: {fileID: 0}
@@ -18255,7 +18255,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1946746709}
   mHiddenRoot: {fileID: 0}
-  mTargetName: marker4
+  mTargetName: marker6
   mDatasetName: Vuforia/projekt.xml
   mCastedBehaviour: {fileID: 1946746709}
   mMeshFilter: {fileID: 0}
@@ -18343,13 +18343,13 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: marker4
+  mTrackableName: marker6
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/projekt.xml
-  mAspectRatio: 1
+  mAspectRatio: 0.705
   mImageTargetType: 0
   mWidth: 0.148
-  mHeight: 0.148
+  mHeight: 0.10434
   mRuntimeTexture: {fileID: 0}
   mMotionHint: 1
   mTrackingOptimization: 0
@@ -18450,7 +18450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mObserverBehaviour: {fileID: 1988329315}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Marker1
+  mTargetName: marker4
   mDatasetName: Vuforia/projekt.xml
   mCastedBehaviour: {fileID: 1988329315}
   mMeshFilter: {fileID: 0}
@@ -18538,7 +18538,7 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Marker1
+  mTrackableName: marker4
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/projekt.xml
   mAspectRatio: 1
@@ -19858,10 +19858,10 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 200970504}
   - {fileID: 1299399634}
-  - {fileID: 1791149989}
   - {fileID: 1988329316}
   - {fileID: 1413885438}
   - {fileID: 1105048886}
   - {fileID: 656766388}
   - {fileID: 1946746710}
+  - {fileID: 1791149989}
   - {fileID: 1141563009}
