@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: a38f59ab82fb61e4ab3edf7dd4e0f599
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.4
+    second: {fileID: 2100000, guid: fadcdf4dcccfd6849af2b7c748b03765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: ba06761b6b9d8504887ac1cca1b5626d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solarpanel
+    second: {fileID: 2100000, guid: cd09579cb996c284e9d9020ed10d4c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solarsmall
+    second: {fileID: 2100000, guid: bcd14d6a3b102f64388ed8e3e1f42677, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Albedo
+    second: {fileID: 2800000, guid: d862b529348c0ea43a3f94fd421c9157, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Albedo_1
+    second: {fileID: 2800000, guid: b7e68e00c12203a45b775d5f8f51704f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Displacement
+    second: {fileID: 2800000, guid: 2120ba9d3c06a2c4d9cb8ada055cfbfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Metalness
+    second: {fileID: 2800000, guid: 4a4c7ad6424ba48409c254343ba68c5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Metalness_1
+    second: {fileID: 2800000, guid: add4687425957674284bec3106bfe463, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Normal
+    second: {fileID: 2800000, guid: 500d84b7130bee34fa239bdc3fd4478b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Normal_1
+    second: {fileID: 2800000, guid: e6f9b6f47cb63e94aa0b2b4df64727e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Roughness
+    second: {fileID: 2800000, guid: 416e89e5a94d5f34ab0e9a0ccc43860d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled_Roughness_1
+    second: {fileID: 2800000, guid: 4f36819c36b4b5d4aa0d75614e83a1ab, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: issbody_Albedo_1
+    second: {fileID: 2800000, guid: 68d617aaf62d94c47bb5d3ee8ead9d84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: issbody_Normal
+    second: {fileID: 2800000, guid: 0dd8d3dc9c1f285448c3e66214854c04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: issbody_Roughness
+    second: {fileID: 2800000, guid: 8a7458cd852910546a75e49b0a143eb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: platform_Albedo
+    second: {fileID: 2800000, guid: f1c82fef4b360b84bb107173acc76450, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: platform_Normal
+    second: {fileID: 2800000, guid: 05ff1da1618f15448b3441ef256d9fe4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: solarbig_Albedo
+    second: {fileID: 2800000, guid: ba1139f2609761247a65ab8128c625f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: solarbig_Normal
+    second: {fileID: 2800000, guid: 55d5d669952418b41b4a476f8ca8f82d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: solarbig_Roughness
+    second: {fileID: 2800000, guid: 46f17e3b5e157e24cbb9738190ccf834, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: solarsmal_Albedo
+    second: {fileID: 2800000, guid: c58eb1628871e6e40b74f0e9330bcd41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: solarsmal_Normal
+    second: {fileID: 2800000, guid: 058254cba2862ac459bbdcb841eafcca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: solarsmal_Roughness
+    second: {fileID: 2800000, guid: 43a0df0854f9a07478dd937deec62742, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spaceshuttle_Albedo
+    second: {fileID: 2800000, guid: f9158b8fe075fd3448396e0cc295d2d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spaceshuttle_Metalness
+    second: {fileID: 2800000, guid: b06505082d3d53b4bb2902fd93f6bd89, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spaceshuttle_Normal
+    second: {fileID: 2800000, guid: 037d8559379c8514f80962364bf1f515, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spaceshuttle_Roughness
+    second: {fileID: 2800000, guid: 415dbb9697fd4224291589f6ab380b44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: whitebody_Metalness
+    second: {fileID: 2800000, guid: 5e0edee26efd4fc418ade9ad17fe77e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: whitebody_Normal
+    second: {fileID: 2800000, guid: 620f0ae632b946c4180709033df49d37, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: whitebody_Roughness
+    second: {fileID: 2800000, guid: dbaa3f85d5f3b0e4ea07a0424618acc5, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
