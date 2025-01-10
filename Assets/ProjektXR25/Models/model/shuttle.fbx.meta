@@ -14,6 +14,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: shuttleOben
     second: {fileID: 2100000, guid: 07a33fbffaba8ea4b8a2f3509a616bb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shuttlejets
+    second: {fileID: 2100000, guid: da99368a9529c9b43833f60a19b246e8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -58,7 +63,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1
